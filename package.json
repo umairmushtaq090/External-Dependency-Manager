@@ -1,0 +1,24 @@
+{
+  "name": "com.umair.externaldependencymanager",
+  "version": "1.0.0",
+  "displayName": "External Dependency Manager For Unity",
+  "description": "This is an External Dependency Manager package",
+  "unity": "2020.3",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+    
+ },
+ "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Unity",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  }
+}
